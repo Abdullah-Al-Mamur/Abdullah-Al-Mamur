@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdullah-Al-Mamur
-- 👀 I’m interested in mobile tecnology & photography
+- 👀 I’m interested in mobile technology & photography
 - 🌱 I’m currently learning swift-ui
-- 💞️ I’m looking to collaborate on any kind of intersting open source project
+- 💞️ I’m looking to collaborate on any kind of intersting flutter open source project
 - 📫 Reach me at almamur.official@gmail.com 
 
 <!---
